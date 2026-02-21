@@ -1,0 +1,11 @@
+C:\Users\cristopher ramos\Documents\quinto semestre\Progra III\modulo 1\Problema_3_arrays\Problema_3_arrays\bin\Debug\Problema_3_arrays.exe.config
+C:\Users\cristopher ramos\Documents\quinto semestre\Progra III\modulo 1\Problema_3_arrays\Problema_3_arrays\bin\Debug\Problema_3_arrays.exe
+C:\Users\cristopher ramos\Documents\quinto semestre\Progra III\modulo 1\Problema_3_arrays\Problema_3_arrays\bin\Debug\Problema_3_arrays.pdb
+C:\Users\cristopher ramos\Documents\quinto semestre\Progra III\modulo 1\Problema_3_arrays\Problema_3_arrays\obj\Debug\Problema_3_arrays.csproj.AssemblyReference.cache
+C:\Users\cristopher ramos\Documents\quinto semestre\Progra III\modulo 1\Problema_3_arrays\Problema_3_arrays\obj\Debug\Problema_3_arrays.Form1.resources
+C:\Users\cristopher ramos\Documents\quinto semestre\Progra III\modulo 1\Problema_3_arrays\Problema_3_arrays\obj\Debug\Problema_3_arrays.Properties.Resources.resources
+C:\Users\cristopher ramos\Documents\quinto semestre\Progra III\modulo 1\Problema_3_arrays\Problema_3_arrays\obj\Debug\Problema_3_arrays.csproj.GenerateResource.cache
+C:\Users\cristopher ramos\Documents\quinto semestre\Progra III\modulo 1\Problema_3_arrays\Problema_3_arrays\obj\Debug\Problema_3_arrays.csproj.CoreCompileInputs.cache
+C:\Users\cristopher ramos\Documents\quinto semestre\Progra III\modulo 1\Problema_3_arrays\Problema_3_arrays\obj\Debug\Problema_3_arrays.exe
+C:\Users\cristopher ramos\Documents\quinto semestre\Progra III\modulo 1\Problema_3_arrays\Problema_3_arrays\obj\Debug\Problema_3_arrays.pdb
+C:\Users\cristopher ramos\Documents\quinto semestre\Progra III\modulo 1\Problema_3_arrays\Problema_3_arrays\obj\Debug\Problema_3_arrays.exe.config
